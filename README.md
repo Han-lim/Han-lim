@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ### :technologist: About Me
 ----
 
+#### :bulb: Projects
+
 #### :book: Education
 `Mar. 2022 ~ Current` Master of IT Engineering, Sookmyung.W.Univ, Seoul, South Korea  
 `Mar. 2017 ~ Feb. 2022` Bachelor of Statistics and Computer Science(Double Majored), Sookmyung.W.Univ, Seoul, South Korea
