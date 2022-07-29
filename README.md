@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 ----
 
 #### :bulb: Projects
-`Sep. 2021 ~ Current` Deep learning voice recognition based on encoder-decoder using audio-visual information
-`Apr. 2021 ~ Jun. 2021` Deepfake-detection-challenge
-`Nov. 2020 ~ Feb. 2021` Fake financial news classification using deep learning model
+- Deep learning voice recognition based on encoder-decoder using audio-visual information, `Sep. 2021 ~ Current` <br>
+- Deepfake-detection-challenge, `Apr. 2021 ~ Jun. 2021` <br>
+- Fake financial news classification using deep learning model, `Nov. 2020 ~ Feb. 2021` <br>
 
 #### :book: Education
-`Mar. 2022 ~ Current` Master of IT Engineering, Sookmyung.W.Univ, Seoul, South Korea  
-`Mar. 2017 ~ Feb. 2022` Bachelor of Statistics and Computer Science(Double Majored), Sookmyung.W.Univ, Seoul, South Korea
+- Master of IT Engineering, Sookmyung.W.Univ, Seoul, South Korea, `Mar. 2022 ~ Current` <br>
+- Bachelor of Statistics and Computer Science(Double Majored), Sookmyung.W.Univ, Seoul, South Korea, `Mar. 2017 ~ Feb. 2022` <br>
 
 #### :hammer_and_wrench: Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
