@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ----
 
 #### :bulb: Projects
+`Sep. 2021 ~ Current` Deep learning voice recognition based on encoder-decoder using audio-visual information
+`Apr. 2021 ~ Jun. 2021` Deepfake-detection-challenge
+`Nov. 2020 ~ Feb. 2021` Fake financial news classification using deep learning model
 
 #### :book: Education
 `Mar. 2022 ~ Current` Master of IT Engineering, Sookmyung.W.Univ, Seoul, South Korea  
