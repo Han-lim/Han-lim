@@ -38,10 +38,3 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHan-lim&count_bg=%2396C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-
-### :fire: My Stats :
-<div align="left">
-  
-[![Han-lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Han-lim)](https://github.com/Han-lim/github-readme-stats)
-
-</div>
