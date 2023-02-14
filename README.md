@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ----
 
 #### :bulb: Projects
-- Deep learning voice recognition based on encoder-decoder using audio-visual information, `Sep. 2021 ~ Current` <br>
+- Deep learning  recognition based on encoder-decoder using audio-visual information, `Sep. 2021 ~ Current` <br>
 - Deepfake-detection-challenge, `Apr. 2021 ~ Jun. 2021` <br>
 - Fake financial news classification using deep learning model, `Nov. 2020 ~ Feb. 2021` <br>
 
